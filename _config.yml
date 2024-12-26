@@ -12,7 +12,7 @@ title                    : "Tim Liptrot Academic Works"
 title_separator          : "-"
 name                     : &name "Tim Liptrot"
 description              : &description "Academic and Policy Works by Tim Liptrot"
-url                      : https://tliptrot.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://tliptrot.github.io/author/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tliptrot/author.github.io"
 
